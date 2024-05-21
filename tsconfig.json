@@ -1,5 +1,5 @@
 {
-  "include": ["./**/*.d.ts", "./**/*.ts", "./**/*.tsx"],
+  "include": ["./**/*.d.ts", "./**/*.ts", "./**/*.tsx", "app/routes/($locale).server-side.testing.jsx", "app/components/ProductItem.jsx"],
   "compilerOptions": {
     "lib": ["DOM", "DOM.Iterable", "ES2022"],
     "isolatedModules": true,
